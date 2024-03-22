@@ -1,8 +1,8 @@
 Hi, I’m Felix
 
-I mostly coding in R for statistics and modelling, but I also created browser-based psychological experiments with javascript.
+I am a researcher and mostly code in R for statistics and modelling, but I also create browser-based psychological experiments with javascript.
 
-Looking to expand into python with my next project.
+I am using this github account to share useful code.
 
 Big fan of line-by-line executability, due to my statistics view on coding.
 
