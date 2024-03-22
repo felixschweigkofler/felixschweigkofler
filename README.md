@@ -1,6 +1,10 @@
 Hi, I’m Felix
 
-I mostly coding for statistics and modelling, but I also created browser-based psychological experiments.
+I mostly coding in R for statistics and modelling, but I also created browser-based psychological experiments with javascript.
+
+Looking to expand into python with my next project.
+
+Big fan of line-by-line executability, due to my statistics view on coding.
 
 More about me on [my website](https://felixschweigkofler.com)
 
